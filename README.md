@@ -4,14 +4,14 @@
 ## Clone the repository
 
 ```
-git clone https://github.com/ajeetraina/deploy-churnapp-streamlit
+git clone <repo-name>
 ```
 
 ## Build the application
 
 
 ```
-docker build -t ajeetraina/churn
+docker build -t customer_churn .
 ```
 
 
